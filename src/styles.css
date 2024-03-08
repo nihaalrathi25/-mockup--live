@@ -1,65 +1,74 @@
-body{
-     background: #FFF8F0;
-    
+body {
+    background: #FFF8F0;
+
 }
-#personal-info{
+
+#personal-info {
     width: 1440px;
     height: 600px;
     display: flex;
-    
+
 }
-#contact{
+
+#contact {
     height: 20px;
     width: 520px;
     margin-top: 30px;
     margin-left: 190px;
     display: flex;
-    
+
 }
-#mobile{
-    padding-right:  280px;
+
+#mobile {
+    padding-right: 280px;
 }
-#text-info{
+
+#text-info {
     height: 20px;
     width: 520px;
     margin-top: 60px;
     margin-left: 190px;
-    
+
 
 }
-#text-info p{
+
+#text-info p {
     font-size: 16px;
     color: #291854;
-    font-family: "Inter",sans-serif;
+    font-family: "Inter", sans-serif;
     font-weight: 500;
     line-height: 19.36px;
-    
-    
+
+
 
 }
-#content{
+
+#content {
     margin-top: 10px;
     font-size: 48px;
-    font-family: League Spartan ,sans-serif;
-    color:  #190D37;
+    font-family: League Spartan, sans-serif;
+    color: #190D37;
     font-weight: 700;
-    
+
 }
-span{
+
+span {
     font-weight: 400;
 }
-#main-content{
-font-family: Poppins;
-font-size: 18px;
-font-weight: 400;
-line-height: 32px;
-letter-spacing: 0em;
-text-align: left;
-margin-top: 30px;
-color: #331E6A;
+
+#main-content {
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-top: 30px;
+    color: #331E6A;
 }
-#contact-me{
-    border:  solid #2F2F2F;
+
+#contact-me {
+    border: solid #2F2F2F;
     border-radius: 10px;
     padding-top: 12px;
     padding-bottom: 12px;
@@ -72,233 +81,246 @@ color: #331E6A;
     width: 90px;
     background-color: #2F2F2F;
     font-family: "Inter";
-    
-}
-#image{
-width: 650px;
-height: 600px;
-top: 0px;
-left: 730px;
-border-radius: 0px 0px 200px 200px;
-margin-left: 50px;
 
 }
-#whatidotxt{
+
+#image {
+    width: 650px;
+    height: 600px;
+    top: 0px;
+    left: 730px;
+    border-radius: 0px 0px 200px 200px;
+    margin-left: 50px;
+
+}
+
+#whatidotxt {
     margin-top: 96px;
     width: 700px;
     height: 195px;
 
 
-    
+
 }
-#What-I-Do{
+
+#What-I-Do {
     font-family: Poppins;
     color: blue;
 }
-#whattext{
-font-family: League Spartan;
-font-size: 36px;
-font-weight: 700;
-line-height: 40px;
-letter-spacing: 0em;
-text-align: center;
+
+#whattext {
+    font-family: League Spartan;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: 0em;
+    text-align: center;
 
 }
-#whatsectext{
-font-family: Poppins;
-font-size: 18px;
-font-weight: 400;
-line-height: 27px;
-letter-spacing: 0em;
-text-align: center;
+
+#whatsectext {
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: center;
 
 }
-#boxes{
+
+#boxes {
     margin-top: 20px;
     display: inline-flex;
     margin-left: 190px;
 }
-#box1{
-width: 340px;
-height: 291px;
-top: 939px;
-border-radius: 10px;
-background-color:white;
+
+#box1 {
+    width: 340px;
+    height: 291px;
+    top: 939px;
+    border-radius: 10px;
+    background-color: white;
 
 }
-#box2{
-width: 340px;
-height: 291px;
-top: 939px;
-margin-left: 25px;
-border-radius: 10px;
-background-color:white;
+
+#box2 {
+    width: 340px;
+    height: 291px;
+    top: 939px;
+    margin-left: 25px;
+    border-radius: 10px;
+    background-color: white;
 
 }
-#box3{
+
+#box3 {
     width: 340px;
     height: 291px;
     margin-left: 25px;
     top: 939px;
     border-radius: 10px;
-    background-color:white;
+    background-color: white;
 }
-#maintextbox1{
-font-family: Poppins;
-font-size: 18px;
-font-weight: 600;
-line-height: 27px;
-letter-spacing: 0em;
+
+#maintextbox1 {
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 27px;
+    letter-spacing: 0em;
 
 }
-#sectextb1{
-font-family: Inter;
-font-size: 16px;
-font-weight: 400;
-line-height: 24px;
-letter-spacing: 0em;
-color: #55206D;
-padding: 24px;
+
+#sectextb1 {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    color: #55206D;
+    padding: 24px;
 
 }
-#myprojects{
+
+#myprojects {
     margin-top: 98px;
 }
-#myprojectstxt{
-    width:700px;
+
+#myprojectstxt {
+    width: 700px;
 }
 
-#MY-PROJECTS{
-font-family: Poppins;
-font-size: 16px;
-font-weight: 600;
-line-height: 18px;
-letter-spacing: 0em;
-color: #2858FF;
-}
-#myprojectmaintxt{
-font-family: League Spartan;
-font-size: 36px;
-font-weight: 700;
-line-height: 40px;
-letter-spacing: 0em;
-margin-top: 8px;
-
-}
-#myprojectsectxt{
-font-family: Poppins;
-font-size: 18px;
-font-weight: 400;
-line-height: 27px;
-letter-spacing: 0em;
-
-}
-#projects{
- /* background-color: #FFF8F0; */
- width: 160px;
-height: 160px;
-
-left: 190px;
-
-margin-left: 190px;
-margin-top:80px ;
-
-
-}
-#pn1{
-font-family: Poppins;
-font-size: 48px;
-font-weight: 700;
-line-height: 72px;
-letter-spacing: 0em;
-text-align: center;
-background-color: #19ACFF;
-padding:47px;
-border-radius: 20px;
-color: white;
+#MY-PROJECTS {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 18px;
+    letter-spacing: 0em;
+    color: #2858FF;
 }
 
-#pbox1{
-    display: flex;
-}
-
-#projectname{
-font-family: Poppins;
-font-size: 18px;
-font-weight: 700;
-line-height: 27px;
-letter-spacing: 0em;
-text-align: left;
-width: 125px;
-height: 27px;
-top: 1573px;
-margin-left: 20px;
-
-}
-#projecttxt{
-width: 880px;
-height: 96px;
-top: 1608px;
-margin-left: 20px;
-font-family: Inter;
-font-size: 16px;
-font-weight: 400;
-line-height: 24px;
-letter-spacing: 0em;
-text-align: left;
-
-
-}
-#projectlink{
-    margin-left: 20px;
+#myprojectmaintxt {
+    font-family: League Spartan;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: 0em;
     margin-top: 8px;
-    color: #6672f8;
+
 }
-#pbox2{
-    display: flex;
-    margin-top: 40px;
+
+#myprojectsectxt {
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0em;
+
 }
-#pn2{
+
+#projects {
+    /* background-color: #FFF8F0; */
+    width: 160px;
+    height: 160px;
+
+    left: 190px;
+
+    margin-left: 190px;
+    margin-top: 80px;
+
+
+}
+
+#pn1 {
     font-family: Poppins;
     font-size: 48px;
     font-weight: 700;
     line-height: 72px;
     letter-spacing: 0em;
     text-align: center;
-    background-color:  #FFE819;
-    ;
-    padding:47px;
+    background-color: #19ACFF;
+    padding: 47px;
     border-radius: 20px;
-    color:black;
-    }
-    #pn3{
-        font-family: Poppins;
-        font-size: 48px;
-        font-weight: 700;
-        line-height: 72px;
-        letter-spacing: 0em;
-        text-align: center;
-        background-color: #FF1919;
-        ;
-        padding:47px;
-        border-radius: 20px;
-        color:white;
-        }
-        #footer{
-            margin-top: 500px;
-            background-color: black;
-            color: white;
-            padding: 20px;
+    color: white;
+}
+
+#pbox1 {
+    display: flex;
+}
+
+#projectname {
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 125px;
+    height: 27px;
+    top: 1573px;
+    margin-left: 20px;
+
+}
+
+#projecttxt {
+    width: 880px;
+    height: 96px;
+    top: 1608px;
+    margin-left: 20px;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
 
 
-        }
-        
-    
+}
+
+#projectlink {
+    margin-left: 20px;
+    margin-top: 8px;
+    color: #6672f8;
+}
+
+#pbox2 {
+    display: flex;
+    margin-top: 40px;
+}
+
+#pn2 {
+    font-family: Poppins;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 72px;
+    letter-spacing: 0em;
+    text-align: center;
+    background-color: #FFE819;
+    ;
+    padding: 47px;
+    border-radius: 20px;
+    color: black;
+}
+
+#pn3 {
+    font-family: Poppins;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 72px;
+    letter-spacing: 0em;
+    text-align: center;
+    background-color: #FF1919;
+    ;
+    padding: 47px;
+    border-radius: 20px;
+    color: white;
+}
+
+#footer {
+    margin-top: 500px;
+    background-color: black;
+    color: white;
+    padding: 20px;
 
 
-
-
-
-
-
-
+}
